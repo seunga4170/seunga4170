@@ -3,7 +3,7 @@
 ### ✨ You are my VIP ✨
 
 ***Vlog with IT*** is a my Development Blog, **VIT**!!
-<a href="https://blog.naver.com/seunga4170">
+<a href="https://blog.naver.com/seunga4170">Naver VIT</a>
 
 **I'm learning...**
 
