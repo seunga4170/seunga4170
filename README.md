@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi, Hello! I'm Developer, Lee Seung A!👋
 
+## ✨ You are my VIP ✨
 <!--
 **seunga4170/seunga4170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
