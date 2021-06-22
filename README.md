@@ -2,9 +2,9 @@
 
 ### ✨ You are my VIP ✨
 
-***Vlog with IT*** is a my Development Blog, VIT!!
+***Vlog with IT*** is a my Development Blog, *VIT*!!
 
-I'm learning...
+**I'm learning...**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
