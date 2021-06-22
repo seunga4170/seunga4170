@@ -1,6 +1,7 @@
 ## Hi, Hello! I am Lee Seung A!👋
 
 ### ✨ You are my VIP ✨
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 ***Vlog with IT*** is a my Development Blog, **VIT**!! 
 <a href="https://blog.naver.com/seunga4170">**🌱 Naver VIT**</a>
