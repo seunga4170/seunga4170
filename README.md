@@ -2,9 +2,9 @@
 
 ### ✨ You are my VIP ✨
 
-**seunga4170/seunga4170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Vlog with IT** is a my Development Blog, VIT!!
 
-Here are some ideas to get you started:
+I'm learning...
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
