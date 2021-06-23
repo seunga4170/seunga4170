@@ -8,7 +8,6 @@
 <a href="https://seungas-it-vlog.tistory.com/">**🌱 Tistory VIT**</a><br>
 <a href="https://velog.io/@seunga4170">**🌱 Velog VIT**</a><br>
 
-**I'm learning...**
-⚡👯🤔📫💬
+**I'm learning...**:pencil2:
 
 ![Seunga's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunga4170&show_icons=true&theme=dracula)
